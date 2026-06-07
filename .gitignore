@@ -1,0 +1,7 @@
+iskcon_vectordb/
+transcripts_extracted/
+transcripts_dataset.jsonl
+Transcripts.zip
+.env
+__pycache__/
+*.pyc

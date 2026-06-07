@@ -1,0 +1,7 @@
+streamlit 
+chromadb 
+sentence-transformers 
+groq 
+python-docx 
+tqdm 
+gdown 
